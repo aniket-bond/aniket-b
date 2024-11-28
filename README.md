@@ -1,2 +1,2 @@
 # aniket-b
-author-aniket kumar this is my first repository
+this is my first git repository author-aniket kumar
