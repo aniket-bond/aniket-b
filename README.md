@@ -1,2 +1,2 @@
 # aniket-b
-this is my repository
+author-aniket kumarthis is my repository
